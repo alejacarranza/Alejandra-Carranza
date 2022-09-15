@@ -1,1 +1,2 @@
 Esta es la historia de Alejandra  tiene 26 años y vive en Bogotá
+Esta aprendiendo Git
